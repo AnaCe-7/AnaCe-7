@@ -14,9 +14,9 @@
 ## 📫 Connect with me
 
 You can reach me: **ana.cecilia.reques@gmail.com**
-<a href="mailto:ana.cecilia.reques@gmail.com" target="blank"> 
+<!-- <a href="mailto:ana.cecilia.reques@gmail.com" target="blank"> --> 
 
-<br><br>
+<br>
 
 ## My current Stack 
 < Learning in progress 👀💬 />
