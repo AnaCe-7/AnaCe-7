@@ -1,16 +1,50 @@
-### Hi there 👋
+<h1 align="center">Hi 🤘, I'm Ana Cecilia! 😎</h1>
 
-<!--
-**AnaCe-7/AnaCe-7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
+💻 I'm a young professional passionate about translation & localization industry.
 
-Here are some ideas to get you started:
+🌱 I’m currently undertaking a full-stack development Bootcamp with Factoria F5 (850 hours).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💗 I love cats 🐈, enjoy playing music 🎸, reading 📖, watching movies 🎬 and taking pictures of nature 📷
+
+⚡ I'm always motivated to learn new things.
+
+<br>
+
+## 📫 Connect with me
+
+You can reach me: **ana.cecilia.reques@gmail.com**
+<a href="mailto:ana.cecilia.reques@gmail.com" target="blank"> 
+
+<br><br>
+
+## My current Stack 
+< Learning in progress 👀💬 />
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,)](https://skillicons.dev"/>
+</p>
+<p align="center">
+   <img src="https://skillicons.dev/icons?i=git,github,)](https://skillicons.dev"/>
+  </p>
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,js,php,)](https://skillicons.dev"/>
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=sass,bootstrap,tailwind,nodejs,react,jest,postman,)](https://skillicons.dev"/>
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma,)](https://skillicons.dev"/>
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
