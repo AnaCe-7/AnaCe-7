@@ -13,8 +13,8 @@
 
 ## 📫 Connect with me
 
-You can reach me: **ana.cecilia.reques@gmail.com**
-<!-- <a href="mailto:ana.cecilia.reques@gmail.com" target="blank"> --> 
+<!-- You can reach me: **ana.cecilia.reques@gmail.com** -->
+<a href="mailto:ana.cecilia.reques@gmail.com" target="blank"><img width="7%" src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" />
 
 <br>
 
