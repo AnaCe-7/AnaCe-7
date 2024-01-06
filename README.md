@@ -13,7 +13,6 @@
 
 ## 📫 Connect with me
 
-<!-- You can reach me: **ana.cecilia.reques@gmail.com** -->
 <a href="mailto:ana.cecilia.reques@gmail.com" target="blank"><img width="7%" src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" />
 
 <br>
@@ -21,19 +20,14 @@
 ## My current Stack 
 < Learning in progress 👀💬 />
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=vscode,)](https://skillicons.dev"/>
-</p>
-<p align="center">
-   <img src="https://skillicons.dev/icons?i=git,github,)](https://skillicons.dev"/>
-  </p>
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,php,)](https://skillicons.dev"/>
-</p>
-<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,)](https://skillicons.dev"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,)](https://skillicons.dev"/>
   <img src="https://skillicons.dev/icons?i=sass,bootstrap,tailwind,nodejs,react,jest,postman,)](https://skillicons.dev"/>
 </p>
-<p align="center">
+
+<p align="left">
   <img src="https://skillicons.dev/icons?i=figma,)](https://skillicons.dev"/>
 </p>
 
