@@ -30,3 +30,11 @@ src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-
   <img src="https://skillicons.dev/icons?i=figma,)](https://skillicons.dev"/>
   <img src="https://skillicons.dev/icons?i=discord,)](https://skillicons.dev"/>
 </p>
+
+<br>
+
+## 📊 Github Stats
+<br>
+
+![AnaCe-7 Stats](https://github-readme-stats.vercel.app/api?username=AnaCe-7&theme=dark&show_icons=true&hide_border=false&count_private=true)
+![AnaCe-7 Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnaCe-7&theme=dark&show_icons=true&hide_border=false&layout=compact)
