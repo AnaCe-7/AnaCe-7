@@ -1,13 +1,13 @@
-<h1 align="center">Hi 🤘, I'm Ana Cecilia! 😎</h1>
+<h1 align="center">Hi, I'm Ana Cecilia!</h1>
 
 ## About me
-💻 I'm a young professional passionate about translation & localization industry.
-
 🌱 I’m currently undertaking a full-stack development Bootcamp with Factoria F5 (850 hours).
 
-💗 I love cats 🐈, enjoy playing music 🎸, reading 📖, watching movies 🎬 and taking pictures of nature 📷
+💻 I'm a young professional passionate about translation & localization industry.
 
-⚡ I'm always motivated to learn new things.
+⚡ I love technologies. I'm always motivated to learn new things.
+
+💗 I love cats 🐈, enjoy playing music 🎸 and taking pictures of nature 🌊📷
 
 <br>
 
