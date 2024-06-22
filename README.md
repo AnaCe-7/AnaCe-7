@@ -4,9 +4,9 @@
 <img width="10%" align="right" alt="Penguin Coder"
 src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" />
 
-- 🌱 I’m currently undertaking a full-stack development Bootcamp with Factoria F5 (850 hours).
 - 💻 I'm a young professional passionate about translation & localization industry.
 - ⚡ I love technologies. I'm always motivated to learn new things.
+- 🌱 Full-stack development Bootcamp with Factoria F5 (850 hours)
 - 💗 I love cats 🐈, enjoy playing music 🎸 and taking pictures of nature 🌊📷
 <br>
 
